@@ -2,4 +2,4 @@
 Athitiya Thammavongsa (623021058-0)
 
 # Content
-- linux commands ([Linux](https://github.com/Athitiya00/AIprototype65))
+- Note ([คาบ 1-3](https://github.com/Athitiya00/AIprototype65/blob/main/Note.pdf))
