@@ -2,7 +2,7 @@
 Athitiya Thammavongsa (623021058-0)
 
 # Content
-♥  Note ([1-3](https://github.com/Athitiya00/AIprototype65/blob/main/Note.pdf))
+✩  Note ([1-3](https://github.com/Athitiya00/AIprototype65/blob/main/Note.pdf))
     
 - คำสั่งพื้นฐาน Ubuntu
 - คำสั่ง Screen
@@ -10,6 +10,11 @@ Athitiya Thammavongsa (623021058-0)
 - Virsual environment anaconda
 - คำสั่งที่ใข้กับ Github
 
-♥  Note ([Deep learning](https://github.com/Athitiya00/AIprototype65/blob/main/23_12_66.pdf))
+✩  Note ([Deep learning](https://github.com/Athitiya00/AIprototype65/blob/main/23_12_66.pdf))
 
 - โครงสร้าง deep learning
+
+✩  Note ([Freeze-Unfreeze](https://github.com/Athitiya00/AIprototype65/blob/main/13_2_66.pdf))
+
+- Python_script101
+- คำสั่งพื้นฐาน Python
