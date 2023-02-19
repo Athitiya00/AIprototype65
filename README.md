@@ -16,5 +16,6 @@ Athitiya Thammavongsa (623021058-0)
 
 ✩  Note ([Freeze-Unfreeze](https://github.com/Athitiya00/AIprototype65/blob/main/13_2_66.pdf))
 
-- Python_script101
 - คำสั่งพื้นฐาน Python
+
+✩  HW1 ([HW สั่งรัน print python_script101.py](https://github.com/Athitiya00/AIprototype65/blob/main/python_subprocess.py))
