@@ -57,7 +57,7 @@ def post_request_detail():
 #         print(getval)
 #         print(getval.get('name'))
         
-
+ 
 #     return render_template("home.html",name = 'Tohn', fav ="")
 
 @app.route("/home2")#, methods=['GET','POST'])
