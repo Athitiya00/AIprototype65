@@ -19,3 +19,9 @@ Athitiya Thammavongsa (623021058-0)
 - คำสั่งพื้นฐาน Python
 
 ✩  HW1 ([HW สั่งรัน print python_script101.py](https://github.com/Athitiya00/AIprototype65/blob/main/python_subprocess.py))
+
+✩  Note ([Flask](https://github.com/Athitiya00/AIprototype65/blob/main/20_2_66.pdf))
+
+- [testflask.py](https://github.com/Athitiya00/AIprototype65/blob/main/testflask.py)
+- [postrequest.py](https://github.com/Athitiya00/AIprototype65/blob/main/postrequest.py)
+- [templates --> home.html](https://github.com/Athitiya00/AIprototype65/tree/main/templates)
