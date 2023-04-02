@@ -36,8 +36,8 @@
 
 ### Final 🔥🔥🔥
 
-✨ Web page ([Web page](https://github.com/Wanita-8943/Human_Age_Estimation_Through_Panoramic_Radiographs_Images_With_Deep_Neural_Network))
-
+✨ Web page ([Web page](https://wanita-8943.github.io/Human_Age_Estimation_Through_Panoramic_Radiographs_Images_With_Deep_Neural_Network/?fbclid=IwAR1v-rOr4zppQBfEAKrH9t09a8wbGahaFhmZarf8x0i5nPsrQIROPIi6UfM))
+- Git hup ([Git hup](https://github.com/Wanita-8943/Human_Age_Estimation_Through_Panoramic_Radiographs_Images_With_Deep_Neural_Network))
 - Web page แสดงภาพรวมของ Project
   - Report
   - Manual
@@ -48,7 +48,7 @@
   - Abstract
   - Project poster
 
-✨ Web App ([Web App](https://github.com/Wanita-8943/Web_app))  
+✨ Web App ([Git Web App](https://github.com/Wanita-8943/Web_app))  
 - เว็บแอปพลิเคชั่นในการประมาณอายุของมนุษย์ผ่านภาพถ่ายเอกซเรย์แบบพาโนรามาของฟัน
   - สามารถประมาณอายุและเพศของมนุษย์ได้
   - ใช้เวลาประมาณผลประมาณ 15 วินาที
